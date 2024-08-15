@@ -1,6 +1,4 @@
-# HOTEL Management project
-
-This project give a details report on hotel managememnt 
-## How to book a Reservation 
-
-__follow this part for a comporehensi
+# HOTEL Management Project
+This project gives a detail report on hotel management.
+## How to book a Reservation
+__follow this part for a comprehensive details about our project__
